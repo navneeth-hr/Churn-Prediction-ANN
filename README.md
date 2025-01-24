@@ -6,8 +6,6 @@ This project implements an **Artificial Neural Network (ANN)** to predict custom
 1. [Project Overview](#project-overview)
 2. [Code Explanation](#code-explanation)
 3. [Results](#results)
-4. [How to Run the Code](#how-to-run-the-code)
-5. [Dependencies](#dependencies)
 
 ## Project Overview
 - **Objective**: Predict whether a customer will leave the bank (churn) based on their demographic and financial data.
